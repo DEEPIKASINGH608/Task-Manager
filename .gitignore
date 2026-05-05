@@ -1,0 +1,7 @@
+# Security: Do NOT push secrets
+.env
+
+# Dependencies: Do NOT push heavy folders
+node_modules/
+dist/
+.DS_Store
